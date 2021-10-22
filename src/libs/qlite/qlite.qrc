@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/qlite">
+        <file>resource/main/close.svg</file>
+        <file>resource/main/close_dark.svg</file>
+        <file>resource/main/max.svg</file>
+        <file>resource/main/max_dark.svg</file>
+        <file>resource/main/min.svg</file>
+        <file>resource/main/min_dark.svg</file>
+        <file>resource/main/restore.svg</file>
+        <file>resource/main/restore_dark.svg</file>
+    </qresource>
+</RCC>
